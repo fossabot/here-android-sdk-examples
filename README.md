@@ -15,6 +15,7 @@ This set of individual, use-case based projects is designed to be cloned by deve
 
 2. Enter the package name of the example you want to build, e.g. [com.here.android.example.map.basic](https://github.com/heremaps/here-android-sdk-examples/blob/master/map-rendering-android/app/src/main/AndroidManifest.xml#L3):
 ![Enter package name](/.screenshots/Premium%20SDK%20-%20Enter%20package%20name.png?raw=true)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fartemnikitin%2Fhere-android-sdk-examples.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fartemnikitin%2Fhere-android-sdk-examples?ref=badge_shield)
 
 3. Click on *GENERATE* to obtain the App ID, App Code, and License Key:
 ![Enter package name](/.screenshots/Premium%20SDK%20-%20Generated%20license.png?raw=true)
@@ -34,6 +35,9 @@ This set of individual, use-case based projects is designed to be cloned by deve
 ## License
 
 Unless otherwise noted in `LICENSE` files for specific files or directories, the [LICENSE](LICENSE) in the root applies to all content in this repository.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fartemnikitin%2Fhere-android-sdk-examples.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fartemnikitin%2Fhere-android-sdk-examples?ref=badge_large)
 
 ## Android Premium SDK
 
